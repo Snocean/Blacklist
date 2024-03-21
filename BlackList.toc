@@ -1,0 +1,11 @@
+## Interface: 11501
+## Title: Black List
+## Version: v3.2
+## Author: EffinOwen / Logan / ElrickEnonimis / chobs / komerad / karl_w_w / rykkan
+## Notes: Keeps a list with notes of enemy and friendly players, warning you if in target, mouse over, or group with them. Allows you to export or import blacklists as well.
+## SavedVariables: BlackListedPlayers, BlackListConfig
+# Removed default sync list for now, please reach out to your communities to see if there is a blacklist sync list started
+# Removed guild share functionality to line up with CurseForge ToS
+
+BlackListUI.xml
+BlackListOptions.xml
